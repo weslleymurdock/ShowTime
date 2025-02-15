@@ -94,6 +94,9 @@
         <mxCell id="2071" value="Web Dashboards" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.laptop;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
           <mxGeometry x="922.75" y="300" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="23zEcQzy8WCygbZwHXFS-2108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2074" target="2071">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2074" value="Relatórios&amp;nbsp;&lt;div&gt;para o usuário&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.user;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
           <mxGeometry x="922.75" y="518" width="47.5" height="50" as="geometry" />
         </mxCell>
@@ -127,8 +130,14 @@
             <mxPoint x="347" y="564.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="23zEcQzy8WCygbZwHXFS-2104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="23zEcQzy8WCygbZwHXFS-2088" target="2069">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="23zEcQzy8WCygbZwHXFS-2088" value="Azure Website&amp;nbsp;&lt;br&gt;- Portal - Backend &lt;br&gt;(Multitenant)" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.azure_website;dashed=1;fontSize=14;fontColor=#004C99" vertex="1" parent="1">
           <mxGeometry x="378" y="258" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="23zEcQzy8WCygbZwHXFS-2105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="23zEcQzy8WCygbZwHXFS-2091" target="2069">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="23zEcQzy8WCygbZwHXFS-2091" value="Mobile Services" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.mobile_services;dashed=1;fontSize=14;fontColor=#004C99" vertex="1" parent="1">
           <mxGeometry x="387" y="661" width="32.5" height="50" as="geometry" />
@@ -141,6 +150,20 @@
         </mxCell>
         <mxCell id="23zEcQzy8WCygbZwHXFS-2100" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" vertex="1" parent="1">
           <mxGeometry x="739" y="415.5" width="51" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="23zEcQzy8WCygbZwHXFS-2103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.487;entryY=0.18;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="23zEcQzy8WCygbZwHXFS-2093" target="2057">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23zEcQzy8WCygbZwHXFS-2106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.56;entryY=0.767;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2041" target="2039">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23zEcQzy8WCygbZwHXFS-2107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.738;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2041" target="2040">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="565" />
+              <mxPoint x="290" y="277" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
